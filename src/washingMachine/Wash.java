@@ -11,8 +11,7 @@ public class Wash implements State{
 	
 	//State code for inserting quarters
 	public void insertQuarter() {
-		System.out.println("Washing Machine is going, you cannot insert a quarter now");
-		
+		System.out.println("Washing Machine is going, you cannot insert a quarter now");		
 	}
 
 	//State code for ejecting quarters
